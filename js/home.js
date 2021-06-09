@@ -1,3 +1,3 @@
 function API_click(){
-    alert("Coming soon....")
+    alert("This feature is in development, stay tuned!")
 }
